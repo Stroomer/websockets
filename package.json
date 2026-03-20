@@ -1,0 +1,23 @@
+{
+  "name": "websockets",
+  "version": "1.0.0",
+  "description": "In deze gitrepo komt de instructie te staan voor het opzetten van een WebSocketsServer voor MultiUser Development op Windows. We maken gebruik van Opdracht 2: Websockets NPM van de Module 7.2 Remote Controller.",
+  "homepage": "https://github.com/Stroomer/websockets#readme",
+  "bugs": {
+    "url": "https://github.com/Stroomer/websockets/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stroomer/websockets.git"
+  },
+  "license": "MIT",
+  "author": "LukasStroomer",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ws": "^8.19.0"
+  }
+}
